@@ -1845,19 +1845,19 @@
           "secondary" : "#4F2C1D",
           "tertiary" : "#FFFFFF"
         },
-        {
-          "abbreviation" : "NIU",
-          "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/785\/full\/northern_illinois_huskies_logo_primary_2011_sportslogosnet-3650.png",
-          "mascot" : "Huskies",
-          "name" : "Northern Illinois",
-          "offenseScheme" : "pro",
-          "prestige" : 50,
-          "primary" : "#C8102E",
-          "region" : "Midwest",
-          "secondary" : "#221E1F",
-          "tertiary" : "#FFFFFF"
-        },
+    {
+      "abbreviation" : "SAC",
+      "defenseScheme" : "4-2-5",
+      "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2022\/04\/Sacramento-State-Hornets-Logo.png",
+      "mascot" : "Hornets",
+      "name" : "Sacramento State",
+      "offenseScheme" : "pro",
+      "prestige" : 50,
+      "primary" : "#043927",
+      "region" : "West",
+      "secondary" : "#C4B581",
+      "tertiary" : "#FFFFFF"
+    },
         {
           "abbreviation" : "MASS",
           "defenseScheme" : "4-2-5",
@@ -1908,6 +1908,84 @@
           "region" : "West",
           "secondary" : "#000000",
           "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "BSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/617\/full\/boise_state_broncos_logo_primary_2013_sportslogosnet-3413.png",
+          "mascot" : "Broncos",
+          "name" : "Boise State",
+          "offenseScheme" : "pro",
+          "prestige" : 68,
+          "primary" : "#0033A0",
+          "region" : "West",
+          "secondary" : "#D64309",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "CSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/648\/full\/colorado_state_rams_logo_primary_2021_sportslogosnet-4842.png",
+          "mascot" : "Rams",
+          "name" : "Colorado State",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#1E4D2B",
+          "region" : "West",
+          "secondary" : "#C8C372",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "FRES",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/681\/full\/fresno_state_bulldogs_logo_primary_2020_sportslogosnet-8293.png",
+          "mascot" : "Bulldogs",
+          "name" : "Fresno State",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#B1102B",
+          "region" : "West",
+          "secondary" : "#13284c",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SDSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/826\/full\/san_diego_state_aztecs_logo_primary_20137979.png",
+          "mascot" : "Aztecs",
+          "name" : "San Diego State",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#D41736",
+          "region" : "West",
+          "secondary" : "#2D2828",
+          "tertiary" : "#2D2828"
+        },
+        {
+          "abbreviation" : "TXST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/847\/full\/texas_state_bobcats_logo_primary_2021_sportslogosnet-2291.png",
+          "mascot" : "Bobcats",
+          "name" : "Texas State",
+          "offenseScheme" : "pro",
+          "prestige" : 52,
+          "primary" : "#501214",
+          "region" : "Southwest",
+          "secondary" : "#D7BD8A",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "USU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/893\/full\/utah_state_aggies_logo_primary_2019_sportslogosnet-5217.png",
+          "mascot" : "Aggies",
+          "name" : "Utah State",
+          "offenseScheme" : "pro",
+          "prestige" : 52,
+          "primary" : "#0F2439",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#A2AAAD"
         }
       ],
       "tier" : "Non-Power"
@@ -1920,42 +1998,7 @@
         {
           "mutual" : true,
           "teamA" : "Air Force",
-          "teamB" : "Colorado State"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Air Force",
           "teamB" : "Wyoming"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Boise State",
-          "teamB" : "New Mexico"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Boise State",
-          "teamB" : "Utah State"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Colorado State",
-          "teamB" : "Wyoming"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Fresno State",
-          "teamB" : "Nevada"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Fresno State",
-          "teamB" : "San Jose State"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Hawaii",
-          "teamB" : "San Diego State"
         },
         {
           "mutual" : true,
@@ -1971,26 +2014,21 @@
           "mutual" : true,
           "teamA" : "New Mexico",
           "teamB" : "San Jose State"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "San Diego State",
-          "teamB" : "Utah State"
         }
       ],
       "requiredConferenceGames" : 8,
       "teams" : [
         {
-          "abbreviation" : "BSU",
+          "abbreviation" : "NDSU",
           "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/617\/full\/boise_state_broncos_logo_primary_2013_sportslogosnet-3413.png",
-          "mascot" : "Broncos",
-          "name" : "Boise State",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/7\/74\/North_Dakota_State_Bison_logo.svg\/1200px-North_Dakota_State_Bison_logo.svg.png",
+          "mascot" : "Bison",
+          "name" : "North Dakota State",
           "offenseScheme" : "pro",
-          "prestige" : 68,
-          "primary" : "#0033A0",
-          "region" : "West",
-          "secondary" : "#D64309",
+          "prestige" : 57,
+          "primary" : "#0A5640",
+          "region" : "Plains",
+          "secondary" : "#FFC72A",
           "tertiary" : "#FFFFFF"
         },
         {
@@ -2007,17 +2045,17 @@
           "tertiary" : "#A7A8AA"
         },
         {
-          "abbreviation" : "SDSU",
+          "abbreviation" : "NIU",
           "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/826\/full\/san_diego_state_aztecs_logo_primary_20137979.png",
-          "mascot" : "Aztecs",
-          "name" : "San Diego State",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/785\/full\/northern_illinois_huskies_logo_primary_2011_sportslogosnet-3650.png",
+          "mascot" : "Huskies",
+          "name" : "Northern Illinois",
           "offenseScheme" : "pro",
-          "prestige" : 55,
-          "primary" : "#D41736",
-          "region" : "West",
-          "secondary" : "#2D2828",
-          "tertiary" : "#2D2828"
+          "prestige" : 50,
+          "primary" : "#C8102E",
+          "region" : "Midwest",
+          "secondary" : "#221E1F",
+          "tertiary" : "#FFFFFF"
         },
         {
           "abbreviation" : "UNLV",
@@ -2033,19 +2071,6 @@
           "tertiary" : "#666666"
         },
         {
-          "abbreviation" : "FRES",
-          "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/681\/full\/fresno_state_bulldogs_logo_primary_2020_sportslogosnet-8293.png",
-          "mascot" : "Bulldogs",
-          "name" : "Fresno State",
-          "offenseScheme" : "pro",
-          "prestige" : 55,
-          "primary" : "#B1102B",
-          "region" : "West",
-          "secondary" : "#13284c",
-          "tertiary" : "#FFFFFF"
-        },
-        {
           "abbreviation" : "HAW",
           "defenseScheme" : "4-2-5",
           "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/696\/full\/hawaii_warriors_logo_primary_20002927.png",
@@ -2057,19 +2082,6 @@
           "region" : "West",
           "secondary" : "#000000",
           "tertiary" : "#B2B2B2"
-        },
-        {
-          "abbreviation" : "USU",
-          "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/893\/full\/utah_state_aggies_logo_primary_2019_sportslogosnet-5217.png",
-          "mascot" : "Aggies",
-          "name" : "Utah State",
-          "offenseScheme" : "pro",
-          "prestige" : 52,
-          "primary" : "#0F2439",
-          "region" : "West",
-          "secondary" : "#FFFFFF",
-          "tertiary" : "#A2AAAD"
         },
         {
           "abbreviation" : "AFA",
@@ -2124,16 +2136,16 @@
           "tertiary" : "#FFFFFF"
         },
         {
-          "abbreviation" : "CSU",
+          "abbreviation" : "UTEP",
           "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/648\/full\/colorado_state_rams_logo_primary_2021_sportslogosnet-4842.png",
-          "mascot" : "Rams",
-          "name" : "Colorado State",
+          "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2021\/07\/UTEP-Miners-logo.png",
+          "mascot" : "Miners",
+          "name" : "UTEP",
           "offenseScheme" : "pro",
-          "prestige" : 50,
-          "primary" : "#1E4D2B",
-          "region" : "West",
-          "secondary" : "#C8C372",
+          "prestige" : 51,
+          "primary" : "#041E42",
+          "region" : "Southwest",
+          "secondary" : "#FF8200",
           "tertiary" : "#FFFFFF"
         }
       ],
@@ -2279,19 +2291,6 @@
           "tertiary" : "#000000"
         },
         {
-          "abbreviation" : "UTEP",
-          "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2021\/07\/UTEP-Miners-logo.png",
-          "mascot" : "Miners",
-          "name" : "UTEP",
-          "offenseScheme" : "pro",
-          "prestige" : 51,
-          "primary" : "#041E42",
-          "region" : "Southwest",
-          "secondary" : "#FF8200",
-          "tertiary" : "#FFFFFF"
-        },
-        {
           "abbreviation" : "SHSU",
           "defenseScheme" : "4-2-5",
           "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/823\/full\/7833_sam_houston_state_bearkats-primary-2020.png",
@@ -2435,11 +2434,6 @@
         {
           "mutual" : true,
           "teamA" : "Troy",
-          "teamB" : "Texas State"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Troy",
           "teamB" : "South Alabama"
         },
         {
@@ -2460,11 +2454,6 @@
         {
           "mutual" : true,
           "teamA" : "Southern Miss",
-          "teamB" : "Texas State"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Southern Miss",
           "teamB" : "South Alabama"
         },
         {
@@ -2480,11 +2469,6 @@
         {
           "mutual" : true,
           "teamA" : "Louisiana-Lafayette",
-          "teamB" : "Texas State"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Louisiana-Lafayette",
           "teamB" : "South Alabama"
         },
         {
@@ -2495,26 +2479,11 @@
         {
           "mutual" : true,
           "teamA" : "Arkansas State",
-          "teamB" : "Texas State"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Arkansas State",
           "teamB" : "South Alabama"
         },
         {
           "mutual" : true,
           "teamA" : "Arkansas State",
-          "teamB" : "UL Monroe"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Texas State",
-          "teamB" : "South Alabama"
-        },
-        {
-          "mutual" : true,
-          "teamA" : "Texas State",
           "teamB" : "UL Monroe"
         },
         {
@@ -2693,19 +2662,6 @@
           "region" : "Southeast",
           "secondary" : "##FDB913",
           "tertiary" : "#FFFFFF"
-        },
-        {
-          "abbreviation" : "TXST",
-          "defenseScheme" : "4-2-5",
-          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/847\/full\/texas_state_bobcats_logo_primary_2021_sportslogosnet-2291.png",
-          "mascot" : "Bobcats",
-          "name" : "Texas State",
-          "offenseScheme" : "pro",
-          "prestige" : 52,
-          "primary" : "#501214",
-          "region" : "Southwest",
-          "secondary" : "#D7BD8A",
-          "tertiary" : "#000000"
         }
       ],
       "tier" : "Non-Power"
