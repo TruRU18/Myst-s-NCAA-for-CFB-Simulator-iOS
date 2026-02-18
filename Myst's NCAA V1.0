@@ -3383,17 +3383,17 @@
       "tertiary" : "#FFFFFF"
     },
     {
-      "abbreviation" : "NDSU",
+      "abbreviation" : "TAR",
       "defenseScheme" : "4-2-5",
-      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/7\/74\/North_Dakota_State_Bison_logo.svg\/1200px-North_Dakota_State_Bison_logo.svg.png",
-      "mascot" : "Bison",
-      "name" : "North Dakota State",
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8d\/Tarleton-st_logo_from_NCAA.svg\/3840px-Tarleton-st_logo_from_NCAA.svg.png",
+      "mascot" : "Texans",
+      "name" : "Tarleton State",
       "offenseScheme" : "pro",
       "prestige" : 50,
-      "primary" : "#0A5640",
-      "region" : "Plains",
-      "secondary" : "#FFC72A",
-      "tertiary" : "#FFFFFF"
+      "primary" : "#4F2D7F",
+      "region" : "Southwest",
+      "secondary" : "#FFFFFF",
+      "tertiary" : "#000000"
     },
     {
       "abbreviation" : "SFA",
@@ -3461,17 +3461,17 @@
       "tertiary" : "#808080"
     },
     {
-      "abbreviation" : "SAC",
+      "abbreviation" : "CARK",
       "defenseScheme" : "4-2-5",
-      "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2022\/04\/Sacramento-State-Hornets-Logo.png",
-      "mascot" : "Hornets",
-      "name" : "Sacramento State",
+      "logoURL" : "https:\/\/a.espncdn.com\/guid\/0e9d0de0-3b91-3bbb-444b-ea02bf2677d4\/logos\/primary_logo_on_black_color.png",
+      "mascot" : "Bears",
+      "name" : "Central Arkansas",
       "offenseScheme" : "pro",
       "prestige" : 50,
-      "primary" : "#043927",
+      "primary" : "#582C83",
       "region" : "West",
-      "secondary" : "#C4B581",
-      "tertiary" : "#FFFFFF"
+      "secondary" : "#7C878E",
+      "tertiary" : "#000000"
     },
     {
       "abbreviation" : "UTM",
